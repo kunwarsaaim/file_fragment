@@ -1,6 +1,6 @@
-# Data Carving Research
+# File Fragment Classification
 
-This research imporoves upon previous paper called "FiFTy: Large-scale File Fragment Type Identification using Neural Networks" which performs file type classification based on. The original paper can be accessed at [FiFTy Paper](https://arxiv.org/abs/1908.06148). The Datasets used in this research can be accessed through the following link [FFT-75](https://ieee-dataport.org/open-access/file-fragment-type-fft-75-dataset).
+This repo is official implementation of the paper ["Light-Weight File Fragments Classification Using Depthwise Separable Convolutions"](http://dx.doi.org/10.1007/978-3-031-06975-8_12). The Datasets used in this paper can be accessed through the following link [FFT-75](https://ieee-dataport.org/open-access/file-fragment-type-fft-75-dataset).
 
 ## Training
 
